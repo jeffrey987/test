@@ -1,0 +1,633 @@
+<?xml version="1.0" standalone="yes"?>
+<RECORDS>
+  <RECORD>
+    <Id>1</Id>
+    <Name>Access admin area</Name>
+    <SystemName>AccessAdminPanel</SystemName>
+    <LanguageValue>允许访问管理后台</LanguageValue>
+    <Category>Configuration/Settings/ZA</Category>
+  </RECORD>
+  <RECORD>
+    <Id>2</Id>
+    <Name>Admin area. Allow Customer Impersonation</Name>
+    <SystemName>AllowCustomerImpersonation</SystemName>
+    <LanguageValue>管理后台.允许模拟客户</LanguageValue>
+    <Category>Configuration/Settings/ZA/Customers</Category>
+  </RECORD>
+  <RECORD>
+    <Id>3</Id>
+    <Name>Admin area. Manage Products</Name>
+    <SystemName>ManageProducts</SystemName>
+    <LanguageValue>管理后台.商品类目.商品管理</LanguageValue>
+    <Category>Catalog</Category>
+  </RECORD>
+  <RECORD>
+    <Id>4</Id>
+    <Name>Admin area. Manage Categories</Name>
+    <SystemName>ManageCategories</SystemName>
+    <LanguageValue>管理后台.商品类目.商品分类</LanguageValue>
+    <Category>Catalog</Category>
+  </RECORD>
+  <RECORD>
+    <Id>5</Id>
+    <Name>Admin area. Manage Manufacturers</Name>
+    <SystemName>ManageManufacturers</SystemName>
+    <LanguageValue>管理后台.商品类目.品牌管理</LanguageValue>
+    <Category>Catalog</Category>
+  </RECORD>
+  <RECORD>
+    <Id>6</Id>
+    <Name>Admin area. Manage Product Reviews</Name>
+    <SystemName>ManageProductReviews</SystemName>
+    <LanguageValue>管理后台.商品类目.商品评论</LanguageValue>
+    <Category>Catalog</Category>
+  </RECORD>
+  <RECORD>
+    <Id>7</Id>
+    <Name>Admin area. Manage Product Tags</Name>
+    <SystemName>ManageProductTags</SystemName>
+    <LanguageValue>管理后台.商品类目.商品标签</LanguageValue>
+    <Category>Catalog</Category>
+  </RECORD>
+  <RECORD>
+    <Id>8</Id>
+    <Name>Admin area. Manage Customers</Name>
+    <SystemName>ManageCustomers</SystemName>
+    <LanguageValue>管理后台.客户管理.客户列表</LanguageValue>
+    <Category>Customers</Category>
+  </RECORD>
+  <RECORD>
+    <Id>9</Id>
+    <Name>Admin area. Manage Vendors</Name>
+    <SystemName>ManageVendors</SystemName>
+    <LanguageValue>管理后台.客户管理.供应商</LanguageValue>
+    <Category>Customers</Category>
+  </RECORD>
+  <RECORD>
+    <Id>10</Id>
+    <Name>Admin area. Manage Current Carts</Name>
+    <SystemName>ManageCurrentCarts</SystemName>
+    <LanguageValue>管理后台.销售管理.购物车</LanguageValue>
+    <Category>Sales</Category>
+  </RECORD>
+  <RECORD>
+    <Id>11</Id>
+    <Name>Admin area. Manage Orders</Name>
+    <SystemName>ManageOrders</SystemName>
+    <LanguageValue>管理后台.销售管理.订单管理</LanguageValue>
+    <Category>Sales</Category>
+  </RECORD>
+  <RECORD>
+    <Id>12</Id>
+    <Name>Admin area. Manage Recurring Payments</Name>
+    <SystemName>ManageRecurringPayments</SystemName>
+    <LanguageValue>管理后台.销售管理.定期支付</LanguageValue>
+    <Category>Sales</Category>
+  </RECORD>
+  <RECORD>
+    <Id>13</Id>
+    <Name>Admin area. Manage Gift Cards</Name>
+    <SystemName>ManageGiftCards</SystemName>
+    <LanguageValue>管理后台.销售管理.礼品卡</LanguageValue>
+    <Category>Sales</Category>
+  </RECORD>
+  <RECORD>
+    <Id>14</Id>
+    <Name>Admin area. Manage Return Requests</Name>
+    <SystemName>ManageReturnRequests</SystemName>
+    <LanguageValue>管理后台.销售管理.退货请求</LanguageValue>
+    <Category>Sales</Category>
+  </RECORD>
+  <RECORD>
+    <Id>15</Id>
+    <Name>Admin area. Access order country report</Name>
+    <SystemName>OrderCountryReport</SystemName>
+    <LanguageValue>管理后台.销售管理.国家报表</LanguageValue>
+    <Category>Reports</Category>
+  </RECORD>
+  <RECORD>
+    <Id>16</Id>
+    <Name>Admin area. Manage Affiliates</Name>
+    <SystemName>ManageAffiliates</SystemName>
+    <LanguageValue>管理后台.客户管理.营销联盟</LanguageValue>
+    <Category>Promotions</Category>
+  </RECORD>
+  <RECORD>
+    <Id>17</Id>
+    <Name>Admin area. Manage Campaigns</Name>
+    <SystemName>ManageCampaigns</SystemName>
+    <LanguageValue>管理后台.促销管理.活动管理</LanguageValue>
+    <Category>Promotions</Category>
+  </RECORD>
+  <RECORD>
+    <Id>18</Id>
+    <Name>Admin area. Manage Discounts</Name>
+    <SystemName>ManageDiscounts</SystemName>
+    <LanguageValue>管理后台.促销管理.折扣管理</LanguageValue>
+    <Category>Promotions</Category>
+  </RECORD>
+  <RECORD>
+    <Id>19</Id>
+    <Name>Admin area. Manage Newsletter Subscribers</Name>
+    <SystemName>ManageNewsletterSubscribers</SystemName>
+    <LanguageValue>管理后台.内容管理.消息订阅</LanguageValue>
+    <Category>Promotions</Category>
+  </RECORD>
+  <RECORD>
+    <Id>20</Id>
+    <Name>Admin area. Manage Polls</Name>
+    <SystemName>ManagePolls</SystemName>
+    <LanguageValue>管理后台.内容管理.投票管理</LanguageValue>
+    <Category>Content Management</Category>
+  </RECORD>
+  <RECORD>
+    <Id>21</Id>
+    <Name>Admin area. Manage News</Name>
+    <SystemName>ManageNews</SystemName>
+    <LanguageValue>管理后台.内容管理.新闻管理</LanguageValue>
+    <Category>Content Management</Category>
+  </RECORD>
+  <RECORD>
+    <Id>22</Id>
+    <Name>Admin area. Manage Blog</Name>
+    <SystemName>ManageBlog</SystemName>
+    <LanguageValue>管理后台.内容管理.博客管理</LanguageValue>
+    <Category>Content Management</Category>
+  </RECORD>
+  <RECORD>
+    <Id>23</Id>
+    <Name>Admin area. Manage Widgets</Name>
+    <SystemName>ManageWidgets</SystemName>
+    <LanguageValue>管理后台.商城设置.部件管理</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>24</Id>
+    <Name>Admin area. Manage Topics</Name>
+    <SystemName>ManageTopics</SystemName>
+    <LanguageValue>管理后台.内容管理.主题页面</LanguageValue>
+    <Category>Content Management</Category>
+  </RECORD>
+  <RECORD>
+    <Id>25</Id>
+    <Name>Admin area. Manage Forums</Name>
+    <SystemName>ManageForums</SystemName>
+    <LanguageValue>管理后台.内容管理.论坛管理</LanguageValue>
+    <Category>Content Management</Category>
+  </RECORD>
+  <RECORD>
+    <Id>26</Id>
+    <Name>Admin area. Manage Message Templates</Name>
+    <SystemName>ManageMessageTemplates</SystemName>
+    <LanguageValue>管理后台.内容管理.邮件通知</LanguageValue>
+    <Category>Content Management</Category>
+  </RECORD>
+  <RECORD>
+    <Id>27</Id>
+    <Name>Admin area. Manage Countries</Name>
+    <SystemName>ManageCountries</SystemName>
+    <LanguageValue>管理后台.商城设置.国家管理</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>28</Id>
+    <Name>Admin area. Manage Languages</Name>
+    <SystemName>ManageLanguages</SystemName>
+    <LanguageValue>管理后台.商城设置.语言管理</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>29</Id>
+    <Name>Admin area. Manage Plugins OfficialFeed</Name>
+    <SystemName>ManagePluginsOfficialFeed</SystemName>
+    <LanguageValue>管理后台.商城设置.官网插件</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>30</Id>
+    <Name>Admin area. Manage Payment Methods</Name>
+    <SystemName>ManagePaymentMethods</SystemName>
+    <LanguageValue>管理后台.商城设置.付款方式</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>31</Id>
+    <Name>Admin area. Manage External Authentication Methods</Name>
+    <SystemName>ManageExternalAuthenticationMethods</SystemName>
+    <LanguageValue>管理后台.商城设置.外部认证</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>32</Id>
+    <Name>Admin area. Manage Tax Providers</Name>
+    <SystemName>ManageTaxProviders</SystemName>
+    <LanguageValue>管理后台.商城设置.税务计算</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>33</Id>
+    <Name>Admin area. Manage Tax Categories</Name>
+    <SystemName>ManageTaxCategories</SystemName>
+    <LanguageValue>管理后台.商城设置.税务种类</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>34</Id>
+    <Name>Admin area. Manage Currencies</Name>
+    <SystemName>ManageCurrencies</SystemName>
+    <LanguageValue>管理后台.商城设置.货币管理</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>35</Id>
+    <Name>Admin area. Manage Activity Log</Name>
+    <SystemName>ManageActivityLog</SystemName>
+    <LanguageValue>管理后台.客户管理.操作日志</LanguageValue>
+    <Category>Customers</Category>
+  </RECORD>
+  <RECORD>
+    <Id>36</Id>
+    <Name>Admin area. Manage ACL</Name>
+    <SystemName>ManageACL</SystemName>
+    <LanguageValue>管理后台.商城设置.访问控制</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>37</Id>
+    <Name>Admin area. Manage Email Accounts</Name>
+    <SystemName>ManageEmailAccounts</SystemName>
+    <LanguageValue>管理后台.商城设置.邮箱帐户</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>38</Id>
+    <Name>Admin area. Manage Stores</Name>
+    <SystemName>ManageStores</SystemName>
+    <LanguageValue>管理后台.商城设置.商城管理</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>39</Id>
+    <Name>Admin area. Manage Plugins</Name>
+    <SystemName>ManagePlugins</SystemName>
+    <LanguageValue>管理后台.商城设置.插件管理</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>40</Id>
+    <Name>Admin area. Manage System Log</Name>
+    <SystemName>ManageSystemLog</SystemName>
+    <LanguageValue>管理后台.系统管理.系统日志</LanguageValue>
+    <Category>System</Category>
+  </RECORD>
+  <RECORD>
+    <Id>41</Id>
+    <Name>Admin area. Manage Message Queue</Name>
+    <SystemName>ManageMessageQueue</SystemName>
+    <LanguageValue>管理后台.系统管理.消息队列</LanguageValue>
+    <Category>System</Category>
+  </RECORD>
+  <RECORD>
+    <Id>42</Id>
+    <Name>Admin area. Manage Maintenance</Name>
+    <SystemName>ManageMaintenance</SystemName>
+    <LanguageValue>管理后台.系统管理.系统维护</LanguageValue>
+    <Category>System</Category>
+  </RECORD>
+  <RECORD>
+    <Id>43</Id>
+    <Name>Admin area. HTML Editor. Manage pictures</Name>
+    <SystemName>HtmlEditor.ManagePictures</SystemName>
+    <LanguageValue>管理后台.HTML编辑器.管理图片</LanguageValue>
+    <Category>Configuration/Settings/ZA/Pictures</Category>
+  </RECORD>
+  <RECORD>
+    <Id>44</Id>
+    <Name>Admin area. Manage Schedule Tasks</Name>
+    <SystemName>ManageScheduleTasks</SystemName>
+    <LanguageValue>管理后台.系统管理.计划任务</LanguageValue>
+    <Category>System</Category>
+  </RECORD>
+  <RECORD>
+    <Id>45</Id>
+    <Name>Public store. Display Prices</Name>
+    <SystemName>DisplayPrices</SystemName>
+    <LanguageValue>商城前台.显示价格</LanguageValue>
+    <Category>ZZ/PublicStore</Category>
+  </RECORD>
+  <RECORD>
+    <Id>46</Id>
+    <Name>Public store. Enable shopping cart</Name>
+    <SystemName>EnableShoppingCart</SystemName>
+    <LanguageValue>商城前台.启用购物车</LanguageValue>
+    <Category>ZZ/PublicStore</Category>
+  </RECORD>
+  <RECORD>
+    <Id>47</Id>
+    <Name>Public store. Enable wishlist</Name>
+    <SystemName>EnableWishlist</SystemName>
+    <LanguageValue>商城前台.启用收藏夹</LanguageValue>
+    <Category>ZZ/PublicStore</Category>
+  </RECORD>
+  <RECORD>
+    <Id>48</Id>
+    <Name>Public store. Allow navigation</Name>
+    <SystemName>PublicStoreAllowNavigation</SystemName>
+    <LanguageValue>商城前台.允许导航</LanguageValue>
+    <Category>ZZ/PublicStore</Category>
+  </RECORD>
+  <RECORD>
+    <Id>49</Id>
+    <Name>Public store. Access a closed store</Name>
+    <SystemName>AccessClosedStore</SystemName>
+    <LanguageValue>商城前台.允许访问关闭商城</LanguageValue>
+    <Category>ZZ/PublicStore</Category>
+  </RECORD>
+  <RECORD>
+    <Id>50</Id>
+    <Name>Admin area. Manage Home</Name>
+    <SystemName>ManageHome</SystemName>
+    <LanguageValue>管理后台.后台首页</LanguageValue>
+    <Category>AA/Home</Category>
+  </RECORD>
+  <RECORD>
+    <Id>51</Id>
+    <Name>Admin area. Manage Welcome</Name>
+    <SystemName>ManageWelcome</SystemName>
+    <LanguageValue>管理后台.用户指南</LanguageValue>
+    <Category>AA/Home</Category>
+  </RECORD>
+  <RECORD>
+    <Id>52</Id>
+    <Name>Admin area. Manage Product Attributes</Name>
+    <SystemName>ManageProductAttributes</SystemName>
+    <LanguageValue>管理后台.商品类目.属性管理.商品属性</LanguageValue>
+    <Category>Catalog/Attributes</Category>
+  </RECORD>
+  <RECORD>
+    <Id>53</Id>
+    <Name>Admin area. Manage Specification attributes</Name>
+    <SystemName>ManageSpecificationAttributes</SystemName>
+    <LanguageValue>管理后台.商品类目.属性管理.规格属性</LanguageValue>
+    <Category>Catalog/Attributes</Category>
+  </RECORD>
+  <RECORD>
+    <Id>54</Id>
+    <Name>Admin area. Manage Checkout attributes</Name>
+    <SystemName>ManageCheckoutAttributes</SystemName>
+    <LanguageValue>管理后台.商品类目.属性管理.结账属性</LanguageValue>
+    <Category>Catalog/Attributes</Category>
+  </RECORD>
+  <RECORD>
+    <Id>55</Id>
+    <Name>Admin area. Manage Blog Settings</Name>
+    <SystemName>ManageBlogSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.博客设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>56</Id>
+    <Name>Admin area. Manage News Settings</Name>
+    <SystemName>ManageNewsSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.新闻设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>57</Id>
+    <Name>Admin area. Manage Forums Settings</Name>
+    <SystemName>ManageForumsSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.论坛设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>58</Id>
+    <Name>Admin area. Manage Media Settings</Name>
+    <SystemName>ManageMediaSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.媒体设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>59</Id>
+    <Name>Admin area. Manage AllSettings</Name>
+    <SystemName>ManageAllSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.所有设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>60</Id>
+    <Name>Admin area. Manage GeneralCommon Settings</Name>
+    <SystemName>ManageGeneralCommonSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.综合设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>61</Id>
+    <Name>Admin area. Manage CustomerUser Settings</Name>
+    <SystemName>ManageCustomerUserSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.客户设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>62</Id>
+    <Name>Admin area. Manage Order Settings</Name>
+    <SystemName>ManageOrderSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.订单设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>63</Id>
+    <Name>Admin area. Manage Shipping Settings</Name>
+    <SystemName>ManageShippingSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.发货设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>64</Id>
+    <Name>Admin area. Manage Tax Settings</Name>
+    <SystemName>ManageTaxSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.税收设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>65</Id>
+    <Name>Admin area. Manage Catalog Settings</Name>
+    <SystemName>ManageCatalogSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.类目设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>66</Id>
+    <Name>Admin area. Manage ShoppingCart Settings</Name>
+    <SystemName>ManageShoppingCartSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.购物车设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>67</Id>
+    <Name>Admin area. Manage RewardPoints Settings</Name>
+    <SystemName>ManageRewardPointsSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.积分设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>68</Id>
+    <Name>Admin area. Manage GdprSettings</Name>
+    <SystemName>ManageGdprSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.GDRP设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>69</Id>
+    <Name>Admin area. Manage Vendor Settings</Name>
+    <SystemName>ManageVendorSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置.供应商设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>70</Id>
+    <Name>Admin area. Manage Shipments</Name>
+    <SystemName>ManageShipments</SystemName>
+    <LanguageValue>管理后台.销售管理.发货</LanguageValue>
+    <Category>Sales</Category>
+  </RECORD>
+  <RECORD>
+    <Id>71</Id>
+    <Name>Admin area. Manage Customers Roles</Name>
+    <SystemName>ManageCustomerRoles</SystemName>
+    <LanguageValue>管理后台.客户管理.客户角色</LanguageValue>
+    <Category>Customers</Category>
+  </RECORD>
+  <RECORD>
+    <Id>72</Id>
+    <Name>Admin area. Manage Customers Online</Name>
+    <SystemName>ManageOnlineCustomers</SystemName>
+    <LanguageValue>管理后台.客户管理.在线客户</LanguageValue>
+    <Category>Customers</Category>
+  </RECORD>
+  <RECORD>
+    <Id>73</Id>
+    <Name>Admin area. Manage ActivityLog Type</Name>
+    <SystemName>ManageActivityLogType</SystemName>
+    <LanguageValue>管理后台.客户管理.日志类型</LanguageValue>
+    <Category>Customers</Category>
+  </RECORD>
+  <RECORD>
+    <Id>74</Id>
+    <Name>Admin area. Manage Customers GdprLog</Name>
+    <SystemName>ManageCustomersGdprLog</SystemName>
+    <LanguageValue>管理后台.客户管理.GDPR请求(日志)</LanguageValue>
+    <Category>Customers</Category>
+  </RECORD>
+  <RECORD>
+    <Id>75</Id>
+    <Name>Admin area. Manage System Templates</Name>
+    <SystemName>ManageSystemTemplates</SystemName>
+    <LanguageValue>管理后台.系统管理.系统模板</LanguageValue>
+    <Category>System</Category>
+  </RECORD>
+  <RECORD>
+    <Id>76</Id>
+    <Name>Admin area. Manage System SeNames</Name>
+    <SystemName>ManageSystemSeNames</SystemName>
+    <LanguageValue>管理后台.系统管理.所有页面</LanguageValue>
+    <Category>System</Category>
+  </RECORD>
+  <RECORD>
+    <Id>77</Id>
+    <Name>Admin area. Manage PaymentMethods Restrictions</Name>
+    <SystemName>ManagePaymentMethodsRestrictions</SystemName>
+    <LanguageValue>管理后台.商城设置.支付限制</LanguageValue>
+    <Category>Configuration</Category>
+  </RECORD>
+  <RECORD>
+    <Id>78</Id>
+    <Name>Admin area. Manage Products LowStock</Name>
+    <SystemName>ManageProductsLowStock</SystemName>
+    <LanguageValue>管理后台.统计.库存警告</LanguageValue>
+    <Category>Reports</Category>
+  </RECORD>
+  <RECORD>
+    <Id>79</Id>
+    <Name>Admin area. Manage Orders Bestsellers</Name>
+    <SystemName>ManageOrdersBestsellers</SystemName>
+    <LanguageValue>管理后台.统计.销售统计</LanguageValue>
+    <Category>Reports</Category>
+  </RECORD>
+  <RECORD>
+    <Id>80</Id>
+    <Name>Admin area. Manage Orders NeverSold</Name>
+    <SystemName>ManageOrdersNeverSold</SystemName>
+    <LanguageValue>管理后台.统计.从未卖出的商品</LanguageValue>
+    <Category>Reports</Category>
+  </RECORD>
+  <RECORD>
+    <Id>81</Id>
+    <Name>Admin area. Manage RegisteredCustomers</Name>
+    <SystemName>ManageRegisteredCustomers</SystemName>
+    <LanguageValue>管理后台.统计.用户统计.注册用户统计</LanguageValue>
+    <Category>Reports/Customers</Category>
+  </RECORD>
+  <RECORD>
+    <Id>82</Id>
+    <Name>Admin area. Manage Customers BestByOrderTotal</Name>
+    <SystemName>ManageCustomersBestByOrderTotal</SystemName>
+    <LanguageValue>管理后台.统计.用户统计.购买金额统计</LanguageValue>
+    <Category>Reports/Customers</Category>
+  </RECORD>
+  <RECORD>
+    <Id>83</Id>
+    <Name>Admin area. Manage Customers BestByNumberOfOrders</Name>
+    <SystemName>ManageCustomersBestByNumberOfOrders</SystemName>
+    <LanguageValue>管理后台.统计.用户统计.订单数量统计</LanguageValue>
+    <Category>Reports/Customers</Category>
+  </RECORD>
+  <RECORD>
+    <Id>84</Id>
+    <Name>Admin area. Manage Shipping Providers</Name>
+    <SystemName>ManageShippingProviders</SystemName>
+    <LanguageValue>管理后台.商城设置.发货管理.运费计算</LanguageValue>
+    <Category>Configuration/Shipping</Category>
+  </RECORD>
+  <RECORD>
+    <Id>85</Id>
+    <Name>Admin area. Manage Shipping Warehouses</Name>
+    <SystemName>ManageShippingWarehouses</SystemName>
+    <LanguageValue>管理后台.商城设置.发货管理.仓库管理</LanguageValue>
+    <Category>Configuration/Shipping</Category>
+  </RECORD>
+  <RECORD>
+    <Id>86</Id>
+    <Name>Admin area. Manage Shipping PickupPoints</Name>
+    <SystemName>ManageShippingPickupPoints</SystemName>
+    <LanguageValue>管理后台.商城设置.发货管理.提货点</LanguageValue>
+    <Category>Configuration/Shipping</Category>
+  </RECORD>
+  <RECORD>
+    <Id>87</Id>
+    <Name>Admin area. Manage Shipping DatesAndRanges</Name>
+    <SystemName>ManageShippingDatesAndRanges</SystemName>
+    <LanguageValue>管理后台.商城设置.发货管理.日期&amp;范围</LanguageValue>
+    <Category>Configuration/Shipping</Category>
+  </RECORD>
+  <RECORD>
+    <Id>88</Id>
+    <Name>Admin area. Manage Shipping Measures</Name>
+    <SystemName>ManageShippingMeasures</SystemName>
+    <LanguageValue>管理后台.商城设置.发货管理.度量单位</LanguageValue>
+    <Category>Configuration/Shipping</Category>
+  </RECORD>
+  <RECORD>
+    <Id>89</Id>
+    <Name>Admin area. Manage Settings</Name>
+    <SystemName>ManageSettings</SystemName>
+    <LanguageValue>管理后台.商城设置.系统设置</LanguageValue>
+    <Category>Configuration/Settings</Category>
+  </RECORD>
+  <RECORD>
+    <Id>90</Id>
+    <Name>Admin area. Common Maintenance</Name>
+    <SystemName>CommonMaintenance</SystemName>
+    <LanguageValue>管理后台.测试用</LanguageValue>
+    <Category>ZZ/Common</Category>
+  </RECORD>
+</RECORDS>
